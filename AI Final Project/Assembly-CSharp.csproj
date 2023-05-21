@@ -104,6 +104,8 @@
      <Compile Include="Assets\New Folder\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
      <Compile Include="Assets\New Folder\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
      <Compile Include="Assets\New Folder\Standard Assets\Utility\FPSCounter.cs" />
+     <Compile Include="Assets\Scripts\GameEnvironment.cs" />
+     <Compile Include="Assets\Scripts\State.cs" />
      <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
      <None Include="Assets\StarterAssets\license.txt" />
      <None Include="Assets\New Folder\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
