@@ -1,2 +1,0 @@
-C:\Users\Muffin\Downloads\AI-Final-Project\AI Final Project\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-C:\Users\Muffin\Downloads\AI-Final-Project\AI Final Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
